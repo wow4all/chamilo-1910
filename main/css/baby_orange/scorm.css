@@ -1,0 +1,11 @@
+/* copy of default_scorm.css */
+
+#scorm_title {
+    font-weight: bold;
+    background:none;
+    font-size: 20px;
+    background-image: none;
+    color: #0088aa;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
